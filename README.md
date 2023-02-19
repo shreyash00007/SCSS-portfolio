@@ -1,2 +1,2 @@
 # Project-portfolio
-A simple portfolio website 
+A simple portfolio website created using scss
